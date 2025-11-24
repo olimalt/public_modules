@@ -1,4 +1,4 @@
 # public_modules
 Odoo public modules
 
-test update
+test update 2
